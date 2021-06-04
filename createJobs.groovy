@@ -12,7 +12,7 @@ pipelineJob('theme-park-job') {
             scm {
                 git {
                     remote {
-                        url 'https://github.com/chandrikavk/devopsspring'
+                        url 'https://github.com/chandrikavk/devopsspring.git'
                     }
                     branch 'master'
                 }
